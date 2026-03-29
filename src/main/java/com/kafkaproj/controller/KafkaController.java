@@ -24,18 +24,3 @@ public class KafkaController {
         return "✅ Message sent to Kafka!";
     }
 }
-
-
-
-//{"properties": [
-//                {
-//                  "name": "spring.kafka.consumer.key-serializer",
-//                  "type": "java.lang.String",
-//                  "description": "A description for 'spring.kafka.consumer.key-serializer'"
-//                },
-//                {
-//                  "name": "spring.kafka.consumer.value-serializer",
-//                  "type": "java.lang.String",
-//                  "description": "A description for 'spring.kafka.consumer.value-serializer'"
-//                }
-//              ]}
